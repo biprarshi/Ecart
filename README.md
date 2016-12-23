@@ -1,2 +1,0 @@
-# JSP001
-ShappingCartProject
