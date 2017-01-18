@@ -1,2 +1,2 @@
-# JSP001
+# JAVA-Maven-Webapp
 ShoppingCartProject
